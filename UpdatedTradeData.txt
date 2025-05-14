@@ -1,0 +1,14 @@
+Car,Japan,Automobile,28750.0
+Coffee,Brazil,Agriculture,300.0
+Copper,Chile,Raw Material,900.0
+Headphones,USA,Electronics,165.0
+Laptop,Germany,Electronics,1200.0
+Motorcycle,Italy,Automobile,15000.0
+Oil,Saudi Arabia,Raw Material,700.0
+Rice,India,Agriculture,525.0
+Smartphone,USA,Electronics,880.0
+Steel,China,Raw Material,1250.0
+Tablet,South Korea,Electronics,648.0
+Tea,Sri Lanka,Agriculture,350.0
+Truck,Sweden,Automobile,40000.0
+Wheat,Canada,Agriculture,450.0

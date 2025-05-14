@@ -1,0 +1,4 @@
+USA China Electronics 25
+China USA Agriculture 30
+Germany USA Automobiles 10
+USA China Electronics 20
