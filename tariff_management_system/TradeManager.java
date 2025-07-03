@@ -6,14 +6,6 @@ import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.NoSuchElementException;
 
-
-//-------------------------------------------------------------------------------------------
-//Assignment 3 COMP 249
-//Question: part 2
-//Written by: Anis Alouache 
-//Student ID: 40273373
-//-------------------------------------------------------------------------------------------
-
 /*
  This Java program simulates and manages international trade scenarios affected by tariffs between countries.
  It reads tariff policies from Tariffs.txt and trade requests from TradeRequests.txt,
