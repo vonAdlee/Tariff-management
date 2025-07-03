@@ -1,12 +1,7 @@
 package tariff_management_system;
 import java.util.NoSuchElementException;
 
-//-------------------------------------------------------------------------------------------
-//Assignment 3 COMP 249
-//Question: part 2
-//Written by: Anis Alouache 
-//Student ID: 40273373
-//-------------------------------------------------------------------------------------------
+
 
 public class TariffList implements TariffPolicy {
 	
