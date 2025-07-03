@@ -1,11 +1,6 @@
 package tariffAdjustment;
 
-//-------------------------------------------------------------------------------------------
-//Assignment 3 COMP 249
-//Question: part 1
-//Written by: Anis Alouache 
-//Student ID: 40273373
-//-------------------------------------------------------------------------------------------
+
 public class Product {
 
 // Product object attribute.
