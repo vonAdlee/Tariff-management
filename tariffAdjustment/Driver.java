@@ -9,12 +9,7 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.PrintWriter;
 
-//-------------------------------------------------------------------------------------------
-//Assignment 3 COMP 249
-//Question: part 1
-//Written by: Anis Alouache 
-//Student ID: 40273373
-//-------------------------------------------------------------------------------------------
+
 
 
 /*
